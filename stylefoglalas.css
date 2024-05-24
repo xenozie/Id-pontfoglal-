@@ -1,0 +1,239 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+    font-weight: 50;
+    
+}
+#form 
+{
+width: 20%;
+border-radius: 10px;
+letter-spacing: 1.5px;
+background-color: #fff;
+margin: 50px 60% 24px 40%;
+text-align: center;
+}
+input 
+{
+height: 20px;
+text-align: center;
+width: 50%;
+padding: 5px 10px;
+border: 2px solid #000;
+font-size: 18px;
+border-radius: 5px;
+margin-bottom: 15px;
+}
+input.home
+{
+    width: 5%;
+    height: 4%;
+font-size: 18px;
+margin-bottom: 0px;
+margin-top: 0px;
+margin-left: 10px;
+border-radius: 15px;
+border-color: white;
+box-shadow: 2px 2px lightblue;
+transition: all 1s;
+}
+input.home:hover
+{
+    transform: translateY(-5px);
+}
+label 
+{
+justify-self: center;
+display: grid;
+padding: 5px;
+border: 2px  #555;
+font-size: 18px;
+
+
+}
+option 
+{
+border: 2px solid #555;
+width: 30px;
+}
+p
+{
+width: 100%;
+font-family: "Bold Italic";
+letter-spacing: 4px;
+color: black;
+}
+.idopont 
+{
+color: white;  
+}
+h3
+{
+font-size: 200%;
+letter-spacing: 1px;
+}
+.bottomnav
+{
+
+display: fixed;
+bottom: 0;
+}
+
+.foglalas {
+display: grid;
+align-self: center;
+justify-self: center;
+border-style: solid;
+border-color: lightblue;
+box-shadow: 2px 2px 1px 1px lightblue;
+border-radius: 25px;
+transition: all 0.1s;
+
+}
+.foglalas:hover 
+{
+transform: translateY(-5px);
+}
+.telefon 
+{
+display: grid;
+justify-self: center;
+}
+.name
+{
+display: grid;
+justify-self: center;
+}
+.email
+{
+display: grid;
+justify-self: center;
+}
+.cim  {
+display: grid;
+justify-self: center;
+}
+.button
+{
+    display: grid;
+justify-self: center;
+background-color: rgba;
+font-size: 1rem;
+font-weight: 700;
+padding: 0.5em 1em;
+border-radius: 5px solid;
+transition: all 0.3s;
+}
+.btn:hover
+{
+background-color: white;
+transform: translateY(-10px);
+}
+select#szolg
+{
+display: grid;
+justify-self: center;
+width: 50px; text-align-last:center;
+}
+.form
+{
+display: grid;
+grid-template-columns: 100px 100px 100px 100px 100px 100;
+justify-self: center;
+grid-template-rows: 100px 100px 100px 100px 100px;
+}
+input.ido 
+{
+display: grid;
+justify-self: center;
+border-style: solid;
+border-radius: 25px; 
+transition: all 0.3s;
+}
+input.nap 
+{
+transition: all 0.3s;
+justify-self: center;
+border-style: solid;
+border-radius: 25px;
+}
+input.nap:hover 
+{
+background-color:white;
+
+}
+input.ido:hover
+{
+background-color:white;
+
+}
+.topnav 
+{
+text-align: center;
+}
+
+.pswd 
+{
+    display: grid;
+    justify-self: center;
+}
+input.login 
+{
+    display:grid;
+    justify-self: center;
+
+}
+input.reg 
+{
+    display:grid;
+    height: 35px;
+    border-style:solid;
+    border-radius: 25px; 
+    justify-self: center;
+}
+.reg-2
+{
+    display: grid;
+    margin-top: 50px;
+    margin-left: 40px;
+    width: 20%;
+    border-style: solid;
+    border-radius: 25px; 
+    transition: all 0.3s;
+}
+input.password-2
+{
+    display:grid;
+    height: 30px;
+    justify-self: center;
+}.password
+{
+    display:grid;
+    justify-self: center;
+}
+input.username-2
+{
+    display:grid;
+    height: 30px;
+    justify-self: center;
+}
+input.username
+{
+    display:grid;
+    justify-self: center;
+}
+input.reg
+{
+    display:grid;
+    justify-self: center;
+}
+input#date.date
+{
+    display:flex;
+    justify-self: flex-end;
+}
+.bottomnav{
+    text-align: center;
+}
