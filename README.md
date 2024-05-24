@@ -7,4 +7,5 @@ Ha az esetleg a dolgozói felületet is szeretnénk megnézni, akkor a következ
 •	jelszó: 123
 A sikeres bejelentkezési adatok megadása után, megjelenik a dolgozói felület, ahol található a vendégek, foglalások adatai, illetve a Kijelentkezés gomb.
 A forráskód elérhető az alábbi linken:
-(Ide esetleg kerülhetne a forráskód elérhetősége)
+
+https://github.com/xenozie/Id-pontfoglal-.git
